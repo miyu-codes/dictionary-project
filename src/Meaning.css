@@ -1,0 +1,24 @@
+h3 {
+  background-color: rgb(255, 234, 239);
+  max-width: fit-content;
+}
+
+ol {
+  margin-bottom: 0;
+}
+
+li {
+  margin: 0;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+em {
+  font-size: 15px;
+}
+
+.Meanings {
+  color: rgb(255, 51, 102);
+}

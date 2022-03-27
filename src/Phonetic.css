@@ -1,0 +1,13 @@
+a {
+  text-decoration: none;
+  background-color: rgba(170, 71, 188, 0.096);
+  max-width: fit-content;
+  padding: 5px;
+  border: 1px solid rgb(171, 71, 188);
+  border-radius: 30px;
+  margin-right: 5px;
+}
+
+.Phonetics {
+  margin: 10px;
+}
