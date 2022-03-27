@@ -9,8 +9,16 @@ export default function App() {
         <Dictionary />
       </main>
       <footer>
-        <small>Coded by Miyu Hayakawa</small>
+        <a
+          href="https://github.com/miyu-codes/dictionary-project"
+          target="_blank"
+          rel="noreferrer"
+          className="source"
+        >
+          Coded by Miyu Hayakawa
+        </a>
       </footer>
+      <br />
     </div>
   );
 }

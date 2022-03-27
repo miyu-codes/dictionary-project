@@ -8,5 +8,10 @@ h1 {
 }
 footer {
   text-align: center;
-  text-decoration: underline;
+}
+
+.source {
+  text-decoration: none;
+  background-color: transparent;
+  border: none;
 }
